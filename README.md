@@ -3,6 +3,12 @@ Helpful resources to come back to for Tech-Moms Data Analytics class.
 The resources used throughout the course in the fall of 2024.  
 
 ## Helpful Web Links
+[https://www.geeksforgeeks.org/data-analysis-tutorial/](url)
+This website provides the basic definitions of types of data and the processing cycle. 
+-Statistical Data
+-Machine Learning
+-Data Mining
+-Data Visualization
 
 ## Helpful Articles
 
