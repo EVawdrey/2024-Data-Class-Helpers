@@ -32,7 +32,8 @@ _Different People look at the **same data** and come to **different** conclusion
 - A Fact is Not Data
 - Data is Not Evidence: Data Mining
 - Data is Not Evidence: Causation
-- When Data is Evidence  • Evidence is Not Proof
+- When Data is Evidence
+- Evidence is Not Proof
 _Can this statement have another explanation? Can this story be interchangeable?_ 
 
 Was it **worth** the _listen_? He's snarky and condescending, with a lovely English accent. His insight is interesting, but at the end of the day, I may be interested in facts and solid data, but the majority of people are not. I think they'll continue listening and following misinformation and made-up facts. 
