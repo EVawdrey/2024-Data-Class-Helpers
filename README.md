@@ -8,3 +8,5 @@ The resources used throughout the course in the fall of 2024.
 # Helpful Articles
 
 ## Helpful Videos 
+
+### Helpful Books 
