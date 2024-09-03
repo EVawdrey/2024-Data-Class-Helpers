@@ -10,6 +10,7 @@ This website provides the basic definitions of types of data and the processing 
 -Data Mining
 -Data Visualization
 
+
 ## Helpful Articles
 
 ## Helpful Videos
@@ -30,11 +31,14 @@ _Different People look at the **same data** and come to **different** conclusion
 - 3)Do they understand the data? 
 - 4)How do they take action?
 
+  [https://www.youtube.com/watch?v=K0-8G3DgjA4](url)
+  **Alex the Analyst** A YouTube Influencer, sharing his personal advice on what he would do to become a Data Analyst now. 
+
 ## Helpful Books 
 
   _May Contain Lies, by Alex Edmans_ 
   
-  **Basic Summary**- don't trust the numbers; people generally fall back on their biases, and the data supports their thoughts and feelings. He's pretty _snarky_ and pokes holes in many theories of books I've previously **read and enjoyed**. He definitely is not a Malcolm Gladwell, Angela Duckworth, or Amy Cuddy fan. He encourages folks to use _critical thinking_ by asking people to measure what data they is being presented. 
+  **Basic Summary**- don't trust the numbers; people generally fall back on their biases, and the data supports their thoughts and feelings. He's pretty _snarky_ and pokes holes in many theories of books I've previously **read and enjoyed**. He definitely is not a Malcolm Gladwell, Angela Duckworth, or Amy Cuddy fan. He encourages folks to use _critical thinking_ by asking people to measure what data they are being presented. 
 - A Statement is Not Fact
 - A Fact is Not Data
 - Data is Not Evidence: Data Mining
