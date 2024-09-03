@@ -10,6 +10,9 @@ This website provides the basic definitions of types of data and the processing 
 -Data Mining
 -Data Visualization
 
+**Writing/Formatting on GitHub** _So helpful. I printed this off for reference so I could flip back and forth on paper while editing on GitHub._ 
+[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github](url)
+
 
 ## Helpful Articles
 
