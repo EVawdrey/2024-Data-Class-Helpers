@@ -14,7 +14,7 @@ This website provides the basic definitions of types of data and the processing 
 ## Helpful Articles
 
 ## Helpful Videos
-Pluralsight Video, skills learning. _Fundamentals of Data Storytelling,_ by **Renganathan Padmanabhan**
+**Pluralsight Video,** skills learning. _Fundamentals of Data Storytelling,_ by **Renganathan Padmanabhan**
 [https://app.pluralsight.com/library/courses/fundamentals-data-storytelling/table-of-contents](url)
 
 **Basic Summary** Explain how data flows through a company. What measurements **KPI** are gathered, and how will others understand and visualize the data?
