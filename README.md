@@ -11,18 +11,18 @@ Pluralsight Video, skills learning. _Fundamentals of Data Storytelling,_ by **Re
 [https://app.pluralsight.com/library/courses/fundamentals-data-storytelling/table-of-contents](url)
 
 **Basic Summary** Explain how data flows through a company. What measurements **KPI** are gathered, and how will others understand and visualize the data?
-- •	Information Collected
-- •	Categorize Data 
-- •	Cleanse Data 
-- •	Fill in the Gaps
-- •	Transform and Format
+- 	Information Collected
+- 	Categorize Data 
+- 	Cleanse Data 
+- 	Fill in the Gaps
+- 	Transform and Format
 
 _Different People look at the **same data** and come to **different** conclusions._
 
--1)What's the Motivation?
--2)What's the Challenge?
--3)Do they understand the data? 
--4)How do they take action?
+- 1)What's the Motivation?
+- 2)What's the Challenge?
+- 3)Do they understand the data? 
+- 4)How do they take action?
 
 ## Helpful Books 
 
