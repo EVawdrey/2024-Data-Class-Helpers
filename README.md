@@ -27,6 +27,7 @@ _Different People look at the **same data** and come to **different** conclusion
 ## Helpful Books 
 
   _May Contain Lies, by Alex Edmans_ 
+  
   **Basic Summary**- don't trust the numbers; people generally fall back on their biases, and the data supports their thoughts and feelings. He's pretty _snarky_ and pokes holes in many theories of books I've previously **read and enjoyed**. He definitely is not a Malcolm Gladwell, Angela Duckworth, or Amy Cuddy fan. He encourages folks to use _critical thinking_ by asking people to measure what data they is being presented. 
 - A Statement is Not Fact
 - A Fact is Not Data
