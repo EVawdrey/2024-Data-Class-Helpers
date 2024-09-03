@@ -9,12 +9,13 @@ The resources used throughout the course in the fall of 2024.
 ## Helpful Videos
 Pluralsight Video, skills learning. _Fundamentals of Data Storytelling,_ by **Renganathan Padmanabhan**
 [https://app.pluralsight.com/library/courses/fundamentals-data-storytelling/table-of-contents](url)
+
 **Basic Summary** How data flows through a company. What measurements **KPI** is gathered, and how will others understand and visualize the data?
-_ •	Information Collected
+(_ •	Information Collected
 _ •	Categorize Data 
 _ •	Cleanse Data 
 _ •	Fill in the Gaps
-_ •	Transform and Format 
+_ •	Transform and Format) 
 
 _Different People look at the **same data** and come to **different** conclusions._
 
