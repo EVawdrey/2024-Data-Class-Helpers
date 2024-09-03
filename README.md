@@ -11,7 +11,7 @@ The resources used throughout the course in the fall of 2024.
 
 ### Helpful Books 
 
-  _This text is italicized_ May Contain Lies, by Alex Edmans. Basic Summary- don't trust the numbers; people generally fall back on their biases and what data supports their thoughts and feelings. He's pretty snarky and pokes holes in many theories of books I've previously read and enjoyed. He definitely is not a Malcolm Gladwell, Angela Duckworth, or Amy Cuddy fan. He encourages folks to use critical thinking by asking people to measure what data they are being presented. 
+  _May Contain Lies, by Alex Edmans_ Basic Summary- don't trust the numbers; people generally fall back on their biases and what data supports their thoughts and feelings. He's pretty snarky and pokes holes in many theories of books I've previously read and enjoyed. He definitely is not a Malcolm Gladwell, Angela Duckworth, or Amy Cuddy fan. He encourages folks to use critical thinking by asking people to measure what data they are being presented. 
 • A Statement is Not Fact
 • A Fact is Not Data
 • Data is Not Evidence: Data Mining
