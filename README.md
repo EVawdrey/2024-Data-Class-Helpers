@@ -31,9 +31,9 @@ _Different People look at the **same data** and come to **different** conclusion
 - 3)Do they understand the data? 
 - 4)How do they take action?
 
+ **Alex the Analyst** A YouTube Influencer, sharing his personal advice on what he would do to become a Data Analyst now. 
   [https://www.youtube.com/watch?v=K0-8G3DgjA4](url)
-  **Alex the Analyst** A YouTube Influencer, sharing his personal advice on what he would do to become a Data Analyst now. 
-
+ 
 ## Helpful Books 
 
   _May Contain Lies, by Alex Edmans_ 
