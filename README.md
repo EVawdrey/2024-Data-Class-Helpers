@@ -1,4 +1,4 @@
-# 2024-Data Analyst Helpers
+# 2024-Data Analyst References 
 Helpful resources to come back to for Tech-Moms Data Analytics class. 
 The resources used throughout the course in the fall of 2024.  
 
@@ -12,11 +12,12 @@ This website provides the basic definitions of types of data and the processing 
 
 
 ## Alex the Analyst: Data Analyst Boot Camp 
-### Excel Youtube Videos from class
+### Excel YouTube videos from class
 [https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22498s](url) Excel:Data Cleaning
 
 ### [https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=17175s](url) Excel: Formulas 
 
+###[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=16121s](url) Excel Pivot Tables
 
 
 **Writing/Formatting on GitHub** _So helpful. I printed this off for reference so I could flip back and forth on paper while editing on GitHub._ 
