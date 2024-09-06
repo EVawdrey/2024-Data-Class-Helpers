@@ -10,9 +10,12 @@ This website provides the basic definitions of types of data and the processing 
 -Data Mining
 -Data Visualization
 
-# Alex the Analyst: Data Analyst Boot Camp 
-## Excel Youtube Videos from class
-[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22498s](url) Data Cleaning
+
+## Alex the Analyst: Data Analyst Boot Camp 
+### Excel Youtube Videos from class
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22498s](url) Excel:Data Cleaning
+
+### [https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=17175s](url) Excel: Formulas 
 
 
 
