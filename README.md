@@ -1,4 +1,4 @@
-# 2024-Data-Class-Helpers 
+# 2024-Data Analyst Helpers
 Helpful resources to come back to for Tech-Moms Data Analytics class. 
 The resources used throughout the course in the fall of 2024.  
 
@@ -9,6 +9,12 @@ This website provides the basic definitions of types of data and the processing 
 -Machine Learning
 -Data Mining
 -Data Visualization
+
+# Alex the Analyst: Data Analyst Boot Camp 
+## Excel Youtube Videos from class
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22498s](url) Data Cleaning
+
+
 
 **Writing/Formatting on GitHub** _So helpful. I printed this off for reference so I could flip back and forth on paper while editing on GitHub._ 
 [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github](url)
