@@ -4,7 +4,7 @@ The resources used throughout the course in the fall of 2024.
 
 ## Helpful Web Links
 [https://www.geeksforgeeks.org/data-analysis-tutorial/](url)
-This website provides the basic definitions of types of data and the processing cycle. 
+This website provides the basic definitions of data types and the processing cycle. 
 -Statistical Data
 -Machine Learning
 -Data Mining
@@ -13,15 +13,15 @@ This website provides the basic definitions of types of data and the processing 
 
 ## Alex the Analyst: Data Analyst Boot Camp 
 ### Excel YouTube videos from class
-[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22498s](url) Excel:Data Cleaning
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=22498s](url) **Excel: Data Cleaning**
 
-### [https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=17175s](url) Excel: Formulas 
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=17175s](url) **Excel: Formulas** 
 
-###[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=16121s](url) Excel Pivot Tables
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=16121s](url) **Excel Pivot Tables**
 
-###[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=21589s](url) Excel Charts
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=21589s](url) **Excel Charts**
 
-###[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=23762s](url) Holy Grail: Excel Dashboards 
+[https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=23762s](url) **Holy Grail: Excel Dashboards** 
 
 
 **Writing/Formatting on GitHub** _So helpful. I printed this off for reference so I could flip back and forth on paper while editing on GitHub._ 
