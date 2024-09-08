@@ -10,6 +10,17 @@ This website provides the basic definitions of data types and the processing cyc
 -Data Mining
 -Data Visualization
 
+[https://www.youtube.com/watch?v=ShBTJrdioLo](url) YouTube: 10 Important Formulas
+
+Average: Random numbers, find the average =Average(highlighted data to average)  
+Sum: =SUM(highlighted data)  also =SUM(100+200+300) numeric range only
+SUMIF: selected sum, certain element only. =SUMIF(range (first column sort),name of thing sorting, name of thing counting.  
+Formula looks like:=SUMIF(B2:B11,B14(click the cell you want a name for),C2:C11)
+			=SumIf(B2:B11,B14,C2:C11) 	
+You need two things, first: like car type: a column of names to sort, 
+=Count() only counts numbers
+=COUNTA() counts any non-empty data like dates, letters and so on. 
+
 
 ## Alex the Analyst: Data Analyst Boot Camp 
 ### Excel YouTube videos from class
