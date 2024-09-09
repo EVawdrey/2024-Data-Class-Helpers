@@ -77,5 +77,30 @@ _Different People look at the **same data** and come to **different** conclusion
 - Evidence is Not Proof
 _Can this statement have another explanation? Can this story be interchangeable?_ 
 
-Was it **worth** the _listen_? He's snarky and condescending, with a lovely English accent. His insight is interesting, but at the end of the day, I may be interested in facts and solid data, but the majority of people are not. I think they'll continue listening and following misinformation and made-up facts. 
+Was it **worth** the _listen_? He's snarky and condescending, with a lovely English accent. His insight is interesting, but at the end of the day, I may be interested in facts and solid data, but most people are not. I think they'll continue listening and following misinformation and made-up facts. 
 
+_Storytelling with data, by Cole Nussbaumer_
+
+**Basic Summary** A job candidate's proficiency with Microsoft Office is the bare minimum. You need to be able to tell the story with the data.
+	- Who is the audience? (background, biases, decision makers. Risks- don't forget to talk risks, people don't believe a Cinderella story) 
+ 	- What do you need them to know?
+ 	- What do you need to know abt them, communication, and tone being considered?
+  	- Ask for action; how will they get to a decision that makes them react? 
+  	- How can you use data to make your point? 
+  	- What types of visuals will be used, text, tables, heat maps, graphs, charts? **AVOID pie, donut and 3-D charts**
+Plan a single sentence to tell the audience to grab their attention, if you get cut short make sure your story can be said in 3 mins or less. 
+3 min story, your point of view and what's at stake, make it a complete statement. 
+Storyboard visually draw it out with sticky notes or pen and paper, don't use electronics. (Funny point, she says you get attached to your electronic work and can't let it go, don't wanna waste your effort.)
+    Graph decisions include how to use them, the thickness of lines, color, and size, as well as their position on the page. Keep things simple and clutter-free.
+    Think like a designer, draw your audience to the story you want them to see.
+
+    **Exploratory analysis** is the hunt, looking for good data that's interesting. You may only find two interesting/supportive details in this phase. Don't show empty finds; nobody cares.
+    **Explanatory analysis** the specific thing you found to support your story. This may be the two things out of one hundred things you found. 
+Keep your slides simple and clean. 
+
+Once you have your audience in mind, you can move to the data,_What data is available to help me speak the point to the audience?_	
+
+    
+###Books to Explore in the Future.
+_Data Points, Nathan Yau_ discusses the data and how to explore and analyze it.   	
+_Resonate, Nancy Duarte_ think of the audience as the hero, get to know them and find common ground. She has a free version on [duarte.com](url) 
