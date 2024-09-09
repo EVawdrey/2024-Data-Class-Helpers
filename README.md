@@ -101,7 +101,7 @@ Keep your slides simple and clean.
 
 Once you have your audience in mind, you can move to the data,_What data is available to help me speak the point to the audience?_	
     
-###Books to Explore in the Future.
+### Books to Explore in the Future.
 
 _Data Points, Nathan Yau_ discusses the data and how to explore and analyze it. 
 
