@@ -79,6 +79,7 @@ _Can this statement have another explanation? Can this story be interchangeable?
 
 Was it **worth** the _listen_? He's snarky and condescending, with a lovely English accent. His insight is interesting, but at the end of the day, I may be interested in facts and solid data, but most people are not. I think they'll continue listening and following misinformation and made-up facts. 
 
+
 _Storytelling with data, by Cole Nussbaumer_
 
 **Basic Summary** A job candidate's proficiency with Microsoft Office is the bare minimum. You need to be able to tell the story with the data.
@@ -99,8 +100,9 @@ Storyboard visually draw it out with sticky notes or pen and paper, don't use el
 Keep your slides simple and clean. 
 
 Once you have your audience in mind, you can move to the data,_What data is available to help me speak the point to the audience?_	
-
     
 ###Books to Explore in the Future.
-_Data Points, Nathan Yau_ discusses the data and how to explore and analyze it.   	
+
+_Data Points, Nathan Yau_ discusses the data and how to explore and analyze it. 
+
 _Resonate, Nancy Duarte_ think of the audience as the hero, get to know them and find common ground. She has a free version on [duarte.com](url) 
