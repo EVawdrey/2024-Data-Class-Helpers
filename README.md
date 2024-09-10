@@ -109,8 +109,19 @@ Once you have your audience in mind, you can move to the data,_What data is avai
 
 
 
-# SQL _(Structured Query Language)_ is a system built to query and manipulate data. It allows users to manipulate data that is essential for data analysis and reporting. **Sally SQL** only speaks to _Relational Databases_, by using rows and columns searches.   
-	•	Select: retrieve data * all columns & all rows,
+# SQL _(Structured Query Language)_ is a system built to query and manipulate data. It allows users to manipulate data that is essential for data analysis and reporting. **Sally SQL** only speaks to _Relational Databases_, by using rows and columns to create tables. A table is sometimes called a relation. 
+
+Some common Relational databases: 
+
+	•	INTEGER, a positive or negative whole number
+	•	TEXT, a text string
+	•	DATE, the date formatted as YYYY-MM-DD
+	•	REAL, a decimal value
+
+
+A Statement is a command used by at database.A statement is a command text to interact with a database and run queries. With queries data you  create tables. Statements consist of identifiers, parameters, variable, names. Statements end in a semicolon;
+
+ 		Select: retrieve data **(*)** from all columns & all rows
 	•	Top number 
 	•	Distinct values (gender,ID)
 	•	Count (Lastname)
@@ -118,15 +129,17 @@ Once you have your audience in mind, you can move to the data,_What data is avai
 	•	MAX(Salary)
 	•	Min()
 	•	Avg()
-**FROM-Database-Table**
+**Query pulls FROM-Database (Top left) -Table(middle left)  [Execute] or F5 **
+
 **SELECT**: * includes all
 **FROM**:
 **WHERE**: (usually includes text information)
 	**SELECT * FROM employees WHERE department = 'Sales';**   
- 	=< will include the specific number and above in your query. 
-	< will include the number of people above this number
+ 	**=<** will include the specific number and above in your query. 
+	**<** will include the number of people above this number
 	**Where**: filter data and return only the row that meets the specific criteria. Limit data.
-The WHERE clause can use operators like **=, >, <, <does not equal>, LIKE, OR, Null, Not Null, AND, IN  */  %** (wildcard) to define the conditions.
+The WHERE clause can use operators like **=, >, <, <does not equal>, LIKE, OR, Null, Not Null, AND, IN  */  %** (wildcard) to define the conditions. AND/OR can be used together, you're not limited here. Can join tables together but have to specify how to join together. 
+
 **GROUP BY**: groups rows that have the same values in specified columns, often used with aggregate functions like COUNT, SUM, or AVG 
 **ORDER BY**: clause sorts the query results based on specified columns, either in ascending (ASC) or descending (DESC) order. For example, ORDER BY salary DESC, can use the row number instead of the column number.
 Aggregation functions: **COUNT, SUM, AVG** to summarize information. 
