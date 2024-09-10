@@ -132,6 +132,15 @@ The WHERE clause can use operators like **=, >, <, <does not equal>, LIKE, OR, N
 Aggregation functions: **COUNT, SUM, AVG** to summarize information. 
 
 ## Helpful SQL WEBLINKS
+
 [sqlbolt.com](url)
 
 [deepnote.com](url)
+
+[https://www.youtube.com/watch?v=h0nxCDiD-zg](url) 
+YouTube ***Kevin Stratvert: SQL Tutorial for Beginners (youtube.com)*** 
+Retrieve data from databases to get information and hidden insights.
+A database is a collection of tables that have a relationship. 
+Helpful hint: _Design Query_ in **Editor*: Right Click or (Control Shift Q), choose Tables to pull data from, ADD & Close. Columns within Tables. 
+Auto writes the SQL statements for SELECT & FROM, FILTER provides WHERE & GROUP BY
+
