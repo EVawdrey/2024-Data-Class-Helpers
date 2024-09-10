@@ -91,9 +91,9 @@ Was it **worth** the _listen_? He's snarky and condescending, with a lovely Engl
   	- What types of visuals will be used, text, tables, heat maps, graphs, charts? **AVOID pie, donut and 3-D charts**
 Plan a single sentence to tell the audience to grab their attention, if you get cut short make sure your story can be said in 3 mins or less. 
 3 min story, your point of view and what's at stake, make it a complete statement. 
-Storyboard visually draw it out with sticky notes or pen and paper, don't use electronics. (Funny point, she says you get attached to your electronic work and can't let it go, don't wanna waste your effort.)
+Storyboard visually draw it out with sticky notes or pen and paper, don't use electronics. (Funny point: she says you get attached to your electronic work and can't let it go; don't wanna waste your effort.)
     Graph decisions include how to use them, the thickness of lines, color, and size, as well as their position on the page. Keep things simple and clutter-free.
-    Think like a designer, draw your audience to the story you want them to see.
+    Think like a designer; draw your audience to the story you want them to see.
 
     **Exploratory analysis** is the hunt, looking for good data that's interesting. You may only find two interesting/supportive details in this phase. Don't show empty finds; nobody cares.
     **Explanatory analysis** the specific thing you found to support your story. This may be the two things out of one hundred things you found. 
@@ -103,11 +103,13 @@ Once you have your audience in mind, you can move to the data,_What data is avai
     
 ### Books to Explore in the Future.
 
-_Data Points, Nathan Yau_ discusses the data and how to explore and analyze it. 
+***Data Points, Nathan Yau*** discusses the data and how to explore and analyze it. 
 
-_Resonate, Nancy Duarte_ think of the audience as the hero, get to know them and find common ground. She has a free version on [duarte.com](url) 
+***Resonate, Nancy Duarte*** think of the audience as the hero, get to know them and find common ground. She has a free version on [duarte.com](url) 
 
-#SQL _(Structured Query Language)_ is a system built to query and manipulate data. It allows users to manipulate data that is essential for data analysis and reporting. **Sally SQL** only speaks to _Relational Databases_, by using rows and columns searches.   
+
+
+# SQL _(Structured Query Language)_ is a system built to query and manipulate data. It allows users to manipulate data that is essential for data analysis and reporting. **Sally SQL** only speaks to _Relational Databases_, by using rows and columns searches.   
 	•	Select: retrieve data * all columns & all rows,
 	•	Top number 
 	•	Distinct values (gender,ID)
@@ -129,6 +131,7 @@ The WHERE clause can use operators like **=, >, <, <does not equal>, LIKE, OR, N
 **ORDER BY**: clause sorts the query results based on specified columns, either in ascending (ASC) or descending (DESC) order. For example, ORDER BY salary DESC, can use the row number instead of the column number.
 Aggregation functions: **COUNT, SUM, AVG** to summarize information. 
 
-##Helpful SQL WEBLINKS
+## Helpful SQL WEBLINKS
 [sqlbolt.com](url)
+
 [deepnote.com](url)
