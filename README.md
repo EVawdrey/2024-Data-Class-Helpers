@@ -66,7 +66,7 @@ _Different People look at the **same data** and come to **different** conclusion
  
 ## Helpful Books 
 
-  _May Contain Lies, by Alex Edmans_ 
+  ***May Contain Lies, by Alex Edmans*** 
   
   **Basic Summary**- don't trust the numbers; people generally fall back on their biases, and the data supports their thoughts and feelings. He's pretty _snarky_ and pokes holes in many theories of books I've previously **read and enjoyed**. He definitely is not a Malcolm Gladwell, Angela Duckworth, or Amy Cuddy fan. He encourages folks to use _critical thinking_ by asking people to measure what data they are being presented. 
 - A Statement is Not Fact
@@ -80,7 +80,7 @@ _Can this statement have another explanation? Can this story be interchangeable?
 Was it **worth** the _listen_? He's snarky and condescending, with a lovely English accent. His insight is interesting, but at the end of the day, I may be interested in facts and solid data, but most people are not. I think they'll continue listening and following misinformation and made-up facts. 
 
 
-_Storytelling with data, by Cole Nussbaumer_
+***Storytelling with data, by Cole Nussbaumer***
 
 **Basic Summary** A job candidate's proficiency with Microsoft Office is the bare minimum. You need to be able to tell the story with the data.
 	- Who is the audience? (background, biases, decision makers. Risks- don't forget to talk risks, people don't believe a Cinderella story) 
