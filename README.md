@@ -106,3 +106,29 @@ Once you have your audience in mind, you can move to the data,_What data is avai
 _Data Points, Nathan Yau_ discusses the data and how to explore and analyze it. 
 
 _Resonate, Nancy Duarte_ think of the audience as the hero, get to know them and find common ground. She has a free version on [duarte.com](url) 
+
+#SQL _(Structured Query Language)_ is a system built to query and manipulate data. It allows users to manipulate data that is essential for data analysis and reporting. **Sally SQL** only speaks to _Relational Databases_, by using rows and columns searches.   
+	•	Select: retrieve data * all columns & all rows,
+	•	Top number 
+	•	Distinct values (gender,ID)
+	•	Count (Lastname)
+	•	AS() allows you to name something 
+	•	MAX(Salary)
+	•	Min()
+	•	Avg()
+**FROM-Database-Table**
+**SELECT**: * includes all
+**FROM**:
+**WHERE**: (usually includes text information)
+	**SELECT * FROM employees WHERE department = 'Sales';**   
+ 	=< will include the specific number and above in your query. 
+	< will include the number of people above this number
+	**Where**: filter data and return only the row that meets the specific criteria. Limit data.
+The WHERE clause can use operators like **=, >, <, <does not equal>, LIKE, OR, Null, Not Null, AND, IN  */  %** (wildcard) to define the conditions.
+**GROUP BY**: groups rows that have the same values in specified columns, often used with aggregate functions like COUNT, SUM, or AVG 
+**ORDER BY**: clause sorts the query results based on specified columns, either in ascending (ASC) or descending (DESC) order. For example, ORDER BY salary DESC, can use the row number instead of the column number.
+Aggregation functions: **COUNT, SUM, AVG** to summarize information. 
+
+##Helpful SQL WEBLINKS
+[sqlbolt.com](url)
+[deepnote.com](url)
