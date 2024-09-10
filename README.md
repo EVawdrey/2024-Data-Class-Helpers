@@ -119,28 +119,52 @@ Some common Relational databases:
 	•	REAL, a decimal value
 
 
-A Statement is a command used by at database.A statement is a command text to interact with a database and run queries. With queries data you  create tables. Statements consist of identifiers, parameters, variable, names. Statements end in a semicolon;
+A statement is a clause that fetches information from a database and runs queries. With query data, you create tables. Statements consist of identifiers, parameters, variables, and names. Statements end in a semicolon;. 
 
- 		Select: retrieve data **(*)** from all columns & all rows
-	•	Top number 
-	•	Distinct values (gender,ID)
+Command: tells you where to pull the data from. 
+
+Statement : **SELECT/INSERT INTO/CREAT TABLE/UPDATE/DELETE FROM**
+
+
+		**INSERT INTO** celebs _(id,name,age)_
+		**VALUES** _(1, "Justin Bieber', 28)_ (column, name, age) this follows the parameter for the first clause
+  
+Clause is the command on the top left of your statement: INSERT INTO 
+
+Table is the row celebs
+
+Parameter is (id, name, age)
+
+Select: **(*)** this will gather info from all columns & rows use the astric 
+
+	•	top number 
+	•	distinct values (gender,ID)
 	•	Count (Lastname)
-	•	AS() allows you to name something 
+	•	AS() allows you to name something or give an alias 
 	•	MAX(Salary)
 	•	Min()
-	•	Avg()
+	•	Avg() 
+ 
 **Query pulls FROM-Database (Top left) -Table(middle left)  [Execute] or F5 **
 
-**SELECT**: * includes all
+**SELECT**: 
+
 **FROM**:
-**WHERE**: (usually includes text information)
+
+**WHERE**: (usually includes text information) 
+
 	**SELECT * FROM employees WHERE department = 'Sales';**   
- 	**=<** will include the specific number and above in your query. 
+ 
+ 	**=<** will include the specific number and above in your query.
+  
 	**<** will include the number of people above this number
+ 
 	**Where**: filter data and return only the row that meets the specific criteria. Limit data.
-The WHERE clause can use operators like **=, >, <, <does not equal>, LIKE, OR, Null, Not Null, AND, IN  */  %** (wildcard) to define the conditions. AND/OR can be used together, you're not limited here. Can join tables together but have to specify how to join together. 
+ 
+Clause operators like **=, >, <, <does not equal>, !, LIKE, OR, Null, Not Null, AND, IN, NOT IN */  %**(wildcard) to define the conditions. AND/OR can be used together; you're not limited here. You can join tables together but must specify exactly where to how to pull them together. 
 
 **GROUP BY**: groups rows that have the same values in specified columns, often used with aggregate functions like COUNT, SUM, or AVG 
+
 **ORDER BY**: clause sorts the query results based on specified columns, either in ascending (ASC) or descending (DESC) order. For example, ORDER BY salary DESC, can use the row number instead of the column number.
 Aggregation functions: **COUNT, SUM, AVG** to summarize information. 
 
