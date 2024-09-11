@@ -41,7 +41,6 @@ You need two things, first: like car type: a column of names to sort,
 **GitHub Tables/Images/Quotes** how to set up your README files.
 [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github](url)
 
-## Helpful Articles
 
 ## Helpful Videos
 **Pluralsight Video,** skills learning. _Fundamentals of Data Storytelling,_ by **Renganathan Padmanabhan**
@@ -109,6 +108,17 @@ Once you have your audience in mind, you can move to the data,_What data is avai
 ***Data Points, Nathan Yau*** discusses the data and how to explore and analyze it. 
 
 ***Resonate, Nancy Duarte*** think of the audience as the hero, get to know them and find common ground. She has a free version on [duarte.com](url) 
+
+### Explore in the future
+
+[https://www.youtube.com/watch?v=qrbf9DtR3_c](url) **YouTube** _MO Jones_ teacher 
+
+at 58:25 he starts talking Pivot Tables. 
+Helpful hint: Control Q = then select charts. 
+Pivot Table fields: settings you can re-order data in alphabetical order 
+Values are for numerical data can sort by count instead of SUM/Currency 
+Columns & Rows: Just drag and drop them into the category. 
+You can change names on tables to Custom names so they don't reflect what you have in the actual column
 
 
 
