@@ -63,6 +63,9 @@ _Different People look at the **same data** and come to **different** conclusion
 
  _YouTube Influencer_ **Alex the Analyst** sharing his personal advice on what he would do to become a Data Analyst now. 
   [https://www.youtube.com/watch?v=K0-8G3DgjA4](url)
+
+[https://www.youtube.com/watch?v=0WstANBX-Gk](url) **YouTube** ***Kevin Stratvert*** Excel Pivot Chart 
+Helpful and easy to watch 11 mins
  
 ## Helpful Books 
 
