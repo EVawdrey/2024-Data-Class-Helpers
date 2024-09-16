@@ -201,8 +201,29 @@ Aggregation functions: **COUNT, SUM, AVG** to summarize information.
 
 [https://www.youtube.com/watch?v=h0nxCDiD-zg](url) 
 YouTube ***Kevin Stratvert: SQL Tutorial for Beginners (youtube.com)*** 
+
 Retrieve data from databases to get information and hidden insights.
 A database is a collection of tables that have a relationship. 
 Helpful hint: _Design Query_ in **Editor*: Right Click or (Control Shift Q), choose Tables to pull data from, ADD & Close. Columns within Tables. 
 Auto writes the SQL statements for SELECT & FROM, FILTER provides WHERE & GROUP BY
+
+
+# Tableau 
+
+Tableau: a cool visualization tool used to create charts & dashboards full of fun data.  
+
+Alex the Analyst: Videos
+Create interactive dashboards. 
+Data is on the far left: dimensions (usually non-numerical elements) & measures (usually numerical data) can be dragged & dropped from the left to the middle to create the dashboard.  
+	Auto generates Tables:
+Analytics: 
+Pages: 
+Filters: 
+Marks: Important, can add detail from here. Color, Size Label & Details 
+
+The far right is the Show Me graphs
+
+Bins: Ranges on your graphs. Group and create ranges on graphs. Adds a category to your table that breaks things into ranges. Does include “NULL.” 
+
+There are calculated fields and bins at the bottom. The Quick Table calculation is by percent of the total. Auto populates on the left. Click, control, and drag to the left; it saves the calculation for you.  
 
