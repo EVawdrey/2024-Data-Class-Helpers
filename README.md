@@ -209,10 +209,18 @@ Auto writes the SQL statements for SELECT & FROM, FILTER provides WHERE & GROUP 
 
 
 # Tableau 
-
 Tableau: a cool visualization tool used to create charts & dashboards full of fun data.  
 
-Alex the Analyst: Videos
+## Alex the Analyst: Videos from class 
+
+[Full Beginner Project in Tableau | Tableau Tutorials for Beginners (youtube.com)](url) Actual video to create a dashboard in Tableau 
+
+[How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners (youtube.com) ](url) Calculated fields & Bins 
+
+[How to Create Visualizations in Tableau | Tableau Tutorials for Beginners (youtube.com)](url) Creating pretty visuals 
+
+[How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners (youtube.com) ](url) First video from class basic download & breakdown of Tableau 
+ 
 Create interactive dashboards. 
 Data is on the far left: dimensions (usually non-numerical elements) & measures (usually numerical data) can be dragged & dropped from the left to the middle to create the dashboard.  
 	Auto generates Tables:
